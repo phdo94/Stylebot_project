@@ -38,8 +38,13 @@
 - Face alignment조정을 통해 모든 사진 alignment 조정
 - 사전학습모델의 가중치만을 가져와서 사용
 - Freeze-D 사용하여 판별자층을 얼려서 이전의 데이터를 최대한 활용
-<br>
--최종결과
-![image](https://github.com/user-attachments/assets/a72b1b83-8f77-4146-854c-638a879b6cbe) 
+<br><br><br>
+-최종결과<br>
+<img src=img/356433456-a72b1b83-8f77-4146-854c-638a879b6cbe.png>
+---
+**발표자료**
+- Colab Notebook(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.ipynb)
+- pptx(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.pptx)
+- 영상(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.mp4)
 
 
