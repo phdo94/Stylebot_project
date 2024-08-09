@@ -27,4 +27,19 @@
         - 마지막에는 RGB로 바꿔주는 layer가 있어 이미지 channel에 맞춰주고 Style block의 input은 전 style block의 output인 featuremap이며 하나의 style block당 두번의 convolution을 진행.<br>
 ---
 **프로젝트 결과**
-- 
+![image](https://github.com/user-attachments/assets/ef5d8d6c-f3b7-478f-92aa-8ff557811d90)
+<br>
+- 1500k img결과 눈, 코, 입의 위치와 대략적인 형태만 생성
+- Pixel2style2pixel로 super resolution 돌린 결과 서양인에 특화되어 나타남.
+- 8개의 GPU로 돌렸을 때 의미있는 이미지를 얻으려면 5000 kimg필요<br>
+![image](https://github.com/user-attachments/assets/1219ed02-2d2a-4c00-a8cb-e42ad270740b)
+<br>
+- 증명사진을 데이터셋에 추가하여 모델 다시 학습
+- Face alignment조정을 통해 모든 사진 alignment 조정
+- 사전학습모델의 가중치만을 가져와서 사용
+- Freeze-D 사용하여 판별자층을 얼려서 이전의 데이터를 최대한 활용
+<br>
+-최종결과
+![image](https://github.com/user-attachments/assets/a72b1b83-8f77-4146-854c-638a879b6cbe) 
+
+
