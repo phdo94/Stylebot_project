@@ -6,7 +6,7 @@
 - 또한 한국인의 얼굴에 특화되어 있는 모델이 필요하여 한국인 연예인 얼굴이미지로 강화학습 필요.
 ---
 **사용 모델**
-- StyleGAN v2:(https://github.com/NVlabs/stylegan)
+- StyleGAN v2:(https://github.com/NVlabs/stylegan2)
    - 기존의 GAN 모델은 메모리 제약 문제와 discriminator에서 과적합 문제가 발생함.
    - 이를 해결한 모델이 PGGAN인데, 저해상도 부터 고해상도까지 점차적으로 키워나가며 이미지를 학습하는 방식.
    - styleGAN은 PGGAN의 구조를 거의 그대로 사용하나, PGGAN과 다르게 Style-based generator를 사용함.
