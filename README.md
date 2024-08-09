@@ -40,11 +40,14 @@
 - Freeze-D 사용하여 판별자층을 얼려서 이전의 데이터를 최대한 활용
 <br><br><br>
 -최종결과<br>
-<img src=img/356433456-a72b1b83-8f77-4146-854c-638a879b6cbe.png>
+<img src=img/356433456-a72b1b83-8f77-4146-854c-638a879b6cbe.png><br>
+
 ---
+
 **발표자료**
-- Colab Notebook(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.ipynb)
-- pptx(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.pptx)
+
+- Colab Notebook(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.ipynb)<br>
+- pptx(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.pptx)<br>
 - 영상(https://github.com/phdo94/Stylebot_project/blob/master/AI_02_%EC%8A%A4%ED%83%80%EC%9D%BC%EB%B4%87_project_%EB%B0%95%ED%97%8C%EB%8F%84.mp4)
 
 
